@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContentProviderReceiver</string>
+
+    <string name="no_username">...Not found</string>
+    <string name="search">Search</string>
+    <string name="username_hint">Enter username</string>
+</resources>

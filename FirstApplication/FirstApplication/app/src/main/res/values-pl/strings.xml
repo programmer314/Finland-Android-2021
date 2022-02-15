@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pierwsza Aplikacja</string>
+    <string name="button_clicked_txt">Naciśnięty!</string>
+    <string name="button_txt">Przycisk</string>
+    <string name="portrait_txt">Pionowa orientacja</string>
+    <string name="landscape_txt">Pozioma orientacja</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ContentProviderSender</string>
+
+    <string name="search">Search</string>
+    <string name="searchInstructions">Search for username</string>
+
+    <string name="username">Username</string>
+
+    <string name="usernameExists">Username exists, showing details...</string>
+    <string name="noUsername">Username doesn\'t exist. Create new user?</string>
+
+    <string name="name">First Name</string>
+    <string name="surname">Last Name</string>
+    <string name="email">Email Address</string>
+    <string name="phone">Phone Number</string>
+
+    <string name="create">Create</string>
+    <string name="save">Save</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+</resources>

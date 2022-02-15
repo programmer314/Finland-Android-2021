@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdsExercise</string>
+
+    <string name="reward_button">Watch reward ad</string>
+</resources>

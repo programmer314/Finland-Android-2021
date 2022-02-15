@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Falling Numbers</string>
+
+    <string name="tag_manager_tracking_id">GTM-NRNH3D</string>
+
+    <string name="ad_unitId" translatable="false">ca-app-pub-6855826389551990/2458835066</string>
+	<string name="test_ad_unitId" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+	<string name="used_ad_unitId" translatable="false">@string/ad_unitId</string>
+    
+	<string name="tellToStart">Tap the screen to start a new game</string>
+	<string name="ask_replay">What do you want to do?</string>
+	
+	<string name="playGame">Play</string>
+	<string name="getInstructions">How to play</string>
+	
+	<string name="replay">New Game</string>
+	<string name="go_back">Main menu</string>
+	<string name="back_to_game">Back to game</string>
+	
+	<string name="howToPlay.title">How to play</string>
+	<string name="howToPlay.image.contentDescription" >Blank Space, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15</string>
+	<string name="howToPlay.content1">
+	    The goal of the game is to get the numbers in the specific setup shown below: 
+	</string>
+	    
+	<string name="howToPlay.content2">
+	    But the trick is that there is only three different ways to manipulate the board, you can rotate the board ninety degrees
+	    left or right, and you can push a number down (down can change as board is flipped). Here is the controls.\n\n
+	    
+	    Swipe Left: rotate left\n
+	    Swipe Right: rotate right\n
+	    Swipe Down: push number down\n\n
+	    
+	    Numbers will also fall every few seconds. Have fun.
+	</string>
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Golf Course Wishlist</string>
+    <string name="menu_column_text">Show as column</string>
+    <string name="menu_grid_text">Show as grid</string>
+</resources>

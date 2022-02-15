@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view 
+    class="coursera.khanacademy.martya.numorder.Graphics$BackgroundViewGroup" 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity"
+    
+    android:background="#0000" >
+
+    <TextView 
+        android:text="@string/app_name"
+        android:textSize="25sp"
+        
+        android:background="#ffff5100"
+        
+        android:padding="10dp"
+        
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    
+    <LinearLayout 
+        android:layout_centerInParent="true"
+        
+        android:weightSum="2"
+        android:orientation="horizontal"
+        
+        android:background="#fff"
+        
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+               
+        <Button 
+            android:text="@string/playGame"
+            
+            android:onClick="playGame"
+            
+            android:layout_weight="1"
+            
+            android:layout_margin="3dp"
+            
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+        
+        <Button 
+            android:text="@string/getInstructions"
+            
+            android:onClick="getInstructions"
+            
+            android:layout_weight="1"
+            
+            android:layout_margin="3dp"
+            
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+        
+    </LinearLayout>
+
+</view>

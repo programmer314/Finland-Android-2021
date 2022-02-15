@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ga_trackingId">UA-70154634-1</string>
+    <bool name="ga_autoActivityTracking">false</bool>
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+
+    <screenName name="coursera.khanacademy.martya.numorder.MainActivity">Falling Numbers</screenName>
+
+</resources>
